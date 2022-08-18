@@ -1,5 +1,6 @@
 <h1 align="center">Hi, This is Sonjibony Wahid</h1>
 <h3 align="center">An Aspiring web developer.</h3>
+<img align="right" alt="Coding" width="500" src="https://media4.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47kjf7x5vz7hhcmlwpj5pmb1tgs30bwlizh7qg04il&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonjibony&label=Profile%20views&color=0e75b6&style=flat" alt="sonjibony" /> </p>
 
